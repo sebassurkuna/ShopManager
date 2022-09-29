@@ -1,0 +1,17 @@
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\bin\Debug\net6.0\ShopManager.Repository.deps.json
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\bin\Debug\net6.0\ShopManager.Repository.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\bin\Debug\net6.0\ShopManager.Repository.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\bin\Debug\net6.0\ShopManager.Domain.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\bin\Debug\net6.0\ShopManager.Entity.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\bin\Debug\net6.0\ShopManager.Domain.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\bin\Debug\net6.0\ShopManager.Entity.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ShopManager.Repository.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ShopManager.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ShopManager.Repository.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ShopManager.Repository.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ShopManager.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ShopManager.Repository.csproj.CopyComplete
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ShopManager.Repository.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\refint\ShopManager.Repository.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ShopManager.Repository.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Repository\obj\Debug\net6.0\ref\ShopManager.Repository.dll

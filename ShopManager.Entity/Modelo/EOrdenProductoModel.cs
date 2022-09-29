@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ShopManager.Entity.Modelo
 {
     public class EOrdenProductoModel
     {
+        [Key]
         public string ID { get; set; } = string.Empty;
         [ForeignKey("PEDIDO")]
         public string ID_PEDIDO { get; set; } = string.Empty;

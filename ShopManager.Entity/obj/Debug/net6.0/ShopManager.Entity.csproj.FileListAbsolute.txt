@@ -1,0 +1,12 @@
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\bin\Debug\net6.0\ShopManager.Entity.deps.json
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\bin\Debug\net6.0\ShopManager.Entity.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\bin\Debug\net6.0\ShopManager.Entity.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\ShopManager.Entity.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\ShopManager.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\ShopManager.Entity.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\ShopManager.Entity.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\ShopManager.Entity.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\ShopManager.Entity.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\refint\ShopManager.Entity.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\ShopManager.Entity.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Entity\obj\Debug\net6.0\ref\ShopManager.Entity.dll

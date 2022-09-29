@@ -3,7 +3,7 @@ using ShopManager.Repository.Configuraciones.Persistencias;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<BDD_DB_Context>();
+builder.Services.AddDbContext<ShopDbContext>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

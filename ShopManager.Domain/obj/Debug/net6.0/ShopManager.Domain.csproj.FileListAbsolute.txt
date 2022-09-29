@@ -1,0 +1,15 @@
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Domain.deps.json
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Domain.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Domain.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Entity.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\bin\Debug\net6.0\ShopManager.Entity.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.csproj.CopyComplete
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\refint\ShopManager.Domain.dll
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ShopManager.Domain.pdb
+C:\Users\sebas\Desktop\Bussiness Capability\Repaso-Señority-Q3\ShopManager-R\ShopManager\ShopManager.Domain\obj\Debug\net6.0\ref\ShopManager.Domain.dll
